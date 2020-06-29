@@ -1,0 +1,360 @@
+@media(max-width: 1290px) {
+	.menu_top,
+	.menu_country {
+		width: 134px;
+	}
+
+}
+
+@media(max-width: 1194px) {
+	.box_flex-footer img {
+		width: 178px;
+	}
+
+
+}
+
+@media(max-width: 1150px) {
+	.box_flex a {
+		display: block;
+		margin-bottom: 15px;
+	}
+
+	.box_flex {
+		display: block;
+	}
+
+	.box_flex img {
+		display: block;
+		width: 100%;
+		height: 135px;
+	}
+
+	.about_select img {
+		max-width: 100%;
+		margin: 0 auto;
+		display: block;
+	}
+
+	.about_select-exlog{
+		margin: 0 auto;
+		max-width: 631px;
+	}
+
+	.about_select {
+		display: block;
+	}
+
+	.about_select-block {
+		padding-bottom: 20px;
+		margin-bottom: 50px;
+		width: 100%;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.blogk {
+		min-height: 0;
+		max-width: 100%;
+		margin-bottom: 50px;
+	}
+
+	.blogk:after {
+		content: "";
+		clear: both;
+		display: block;
+	}
+
+	.select_box1 {
+		position: absolute;
+		left: 50%;
+		right: 50%;
+		transform: translate(-50%);
+	}
+
+	.blogk_location {
+		max-width: 100%;
+		text-align: center;
+		min-height: 300px;
+	}
+
+	.blogk_location .speed_btn {
+		margin-top: 80px;
+	}
+
+	.location_title {
+		font-size: 30px;
+	}
+
+	.services_flex {
+		display: block;
+	}
+
+	.blogk img {
+		float: left;
+		padding-right: 10px;
+	}
+
+	.header_content {
+		padding-bottom: 10px;
+	}
+
+	.menu {
+		padding-top: 98px;
+	}
+
+	.menu ul {
+		position: absolute;
+		left: 0;
+		right: 0;
+		max-width: 400px;
+		margin: 10px 0px 0px 150px;
+		background-color: #ffcc00;
+		z-index: 50;
+		border: 2px solid #fff;
+	}
+
+	.menu li {
+		display: block;
+	}
+
+	.menu a {
+		padding: 0;
+		width: 100%;
+		padding: 20px;
+	}
+
+
+	.header_menu-list {
+		display: block;
+		position: absolute;
+		left: 156px;
+		top: 93px;
+	}
+
+}
+
+@media(max-width: 1032px) {
+	.item_content-flex {
+			display: block;
+	}
+
+	.item_btn a {
+		margin-top: 50px;
+	}
+
+	.about_slider-blogk {
+		padding: 30px 0px 30px 14px;
+	}
+}
+
+@media(max-width: 980px) {
+	.about_slider-blogk a {
+		font-size: 14px;
+	}
+}
+
+@media(max-width: 884px) {
+	.about_slider-blogk a {
+		font-size: 17px;
+	}
+
+	.box_flex-footer img {
+		display: none;
+	}
+}
+
+@media(max-width: 730px) {
+	.slider_title {
+		font-size: 45px;
+	}
+}
+
+@media(max-width: 700px) {
+	.title {
+		 font-size: 50px;
+	}
+
+	.title_item {
+		font-size: 25px;
+	}
+
+	.about_logistics, .about_express {
+		display: block;
+	}
+
+	.about_slider-blogk a {
+		font-size: 14px;
+	}
+
+	.slider_title {
+		font-size: 36px;
+	}
+
+	.services_title {
+		display: none;
+	}
+
+	.services_flex {
+		margin-top: 114px;
+	}
+}
+
+@media(max-width: 600px) {
+	.blogk img {
+		float: none;
+	}
+
+	.menu ul {
+		margin: 10px auto 0px;
+	}
+}
+
+@media(max-width: 540px) {
+	.With_speed .title {
+		font-size: 40px;
+	}
+
+	.mobal_message textarea {
+		margin: 0;
+		margin-top: 30px;
+		max-width: 260px;
+	}
+
+	.box_flex-footer {
+		display: block;
+		text-align: center;
+	}
+
+	.slider_title {
+		font-size: 30px;
+	}
+
+	.services_title1 {
+		font-size: 40px;
+		text-align: left;
+	}
+}
+
+@media(max-width: 450px) {
+	.amazing,
+	.dot,
+	.quick,
+	.dot1,
+	.supports,
+	.contacts_btn {
+		font-size: 15px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+
+	.With_speed .title {
+		font-size: 36px;
+	}
+
+	.header_content-flex {
+		display: block;
+	}
+
+	.menu  {
+		padding-top: 50px;
+	}
+
+	.search {
+		position: absolute;
+		top: 93px;
+	}
+
+	.header_menu-list {
+		display: block;
+		position: absolute;
+	}
+}
+
+
+@media(max-width: 416px) {
+	.amazing,
+	.dot,
+	.quick,
+	.dot1,
+	.supports,
+	.contacts_btn {
+		font-size: 15px;
+		padding-left: 12px;
+		padding-right: 15px;
+	}
+}
+
+@media(max-width: 414px) {
+	.services_title1 {
+		font-size: 33px;
+		text-align: left;
+	}
+
+	.header_flex {
+		display: block;
+	}
+
+	.header_menu {
+		max-width: 68px;
+		margin: 0 auto;
+	}
+
+	.header_country {
+		text-align: center;
+	}
+
+	.header_menu-list {
+		position: absolute;
+		top: 111px;
+	}
+
+	.search {
+		position: absolute;
+		top: 108px;
+	}
+}
+
+@media(max-width: 400px){
+	.amazing,
+	.dot,
+	.quick,
+	.dot1,
+	.supports,
+	.contacts_btn {
+		font-size: 17px;
+		padding-left: 3px;
+		padding-right: 7px;
+	}
+}
+
+@media(max-width: 375px){
+	.title_item {
+		font-size: 22px;
+	}
+
+	.services_title1 {
+		font-size: 30px;
+		text-align: left;
+	}
+
+	.With_speed .title {
+		font-size: 30px;
+	}
+
+	.With_speed .text {
+		font-size: 15px;
+		margin-bottom: 20px;
+	}
+
+	.amazing,
+	.dot,
+	.quick,
+	.dot1,
+	.supports,
+	.contacts_btn {
+		font-size: 15px;
+		padding-left: 3px;
+		padding-right: 7px;
+	}
+}
